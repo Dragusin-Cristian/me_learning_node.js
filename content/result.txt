@@ -1,0 +1,1 @@
+This is the result: Hello  from the first file! Hello from the second file!.
